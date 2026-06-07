@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+/Users/karen/Desktop/EECS2030/Demo/.metadata/.plugins/org.eclipse.jdt.core
-352829657.index
-2323089307.index
-1865797976.index
