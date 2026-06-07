@@ -40,4 +40,4 @@ The projects demonstrate experience in:
 
 ## About Me
 
-I am a Statistics student with a minor in Computer Science interested in data analytics, statistical modeling, machine learning, and data-driven decision making. This repository showcases projects that reflect my academic and technical development across these areas.
+I am a Statistics and Computer Science student interested in data analytics, statistical modeling, machine learning, and data-driven decision making. This repository showcases projects that reflect my academic and technical development across these areas.
