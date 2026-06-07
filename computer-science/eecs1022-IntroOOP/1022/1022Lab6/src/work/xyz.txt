@@ -1,2 +1,0 @@
-hello from xyz.txt
-can you see the 2nd line
